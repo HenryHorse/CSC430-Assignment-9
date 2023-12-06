@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8Xmq0FQloTdg8+q0Ao/xsSsl4COi6O/P14Edkz6Vh7td3C5rTedGQestPzdRFwXvk4PGN0oP+w/iSe2BiepEA==",
+  "success": true,
+  "projectFilePath": "/Users/shayandaijavad/Documents/Cal Poly/Junior Fall Quarter/CSC 430/Asgn 9/CSC430-Assignment-9/Asgn9/Asgn9.fsproj",
+  "expectedPackageFiles": [
+    "/Users/shayandaijavad/.nuget/packages/fsharp.core/8.0.100/fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
